@@ -13,6 +13,7 @@ public class BeanFactory {
 		createuserbean.setConfirmEmail(email);
 		createuserbean.setPassword(password);
 		createuserbean.setConfirmpassword(password);
+		
 	}
 	
 	
